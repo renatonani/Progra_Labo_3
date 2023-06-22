@@ -1,0 +1,1 @@
+npm install cors express express-myconnection jsonwebtoken multer mysql
